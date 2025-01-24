@@ -12,7 +12,7 @@ Hi, I'm Oleksii!
 
 ## 📂 Structure
 - [🚀 My Project](#-my-project)
-    - [📋 About Me](#-about-)
+    - [📋 About Me](#-about-#)
 - [📂 Structure](#-structure)
 - [✨ Features](#-features)
 - [🛠️ Installation](#-installation)
