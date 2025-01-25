@@ -6,7 +6,7 @@ Hi, I'm Oleksii!
 - Passionate about programming and solving challenges.  
 - Enthusiast of JavaScript and API-based applications.  
 - Love combining learning with creating meaningful projects.  
-- Volleyball player with a drive for teamwork and discipline.
+
 
 ---
 
