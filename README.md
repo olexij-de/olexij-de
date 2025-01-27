@@ -1,4 +1,4 @@
-# 🚀 My Project
+# 🚀 My Portfolio
 
 ### 📋 About Me
 
