@@ -7,7 +7,7 @@ Hi, I'm Oleksii
 - Enthusiast of JavaScript and API-based applications.  
 - Love combining learning with creating meaningful projects.  
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=olexij-de)](https://git.io/streak-stats)
 ---
 
 ## 📂 Structure
