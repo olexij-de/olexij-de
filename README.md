@@ -1,4 +1,4 @@
-# 🚀 My Portfolio
+# 🚀 Portfolio
 
 ### 📋 About Me
 
@@ -12,7 +12,7 @@ Hi, I'm Oleksii
 
 ## 📂 Structure
 - [🚀 My Project](#-my-project)
-    - [📋 About Me](#-about-#)
+- [📋 About Me](#-about-#)
 - [📂 Structure](#-structure)
 - [✨ Features](#-features)
 - [🛠️ Installation](#-installation)
@@ -36,8 +36,3 @@ Here are some tools I work with:
 
 ---
 
-## 🛠️ Installation
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/username/repository.git
